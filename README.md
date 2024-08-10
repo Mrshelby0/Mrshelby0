@@ -1,6 +1,4 @@
-To create an impressive GitHub `README.md` file for your profile, I’ll include an introduction, a summary of your skills, and some of your work highlights. Here's a draft:
 
----
 
 # Hi there, I'm Sparsh Sharma! 👋
 
@@ -35,4 +33,4 @@ Welcome to my GitHub profile! I'm a passionate student currently pursuing my **B
 
 ---
 
-Feel free to customize any sections as you see fit! You might also want to add any specific projects or contributions to highlight your work further.
+
