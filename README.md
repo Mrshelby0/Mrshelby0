@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate student currently pursuing my **B
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](#) (Add your LinkedIn profile here)
+- [LinkedIn](https://www.linkedin.com/in/sparsh-sharma-2805bb291/) 
 - [Personal Blog](https://blackdevil001.wixsite.com/home)
 
 ---
