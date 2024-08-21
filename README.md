@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate student currently pursuing my **B
 
 - 💻 **Currently Learning:** Data Structures and Algorithms, Web Development  
 - 🎓 **Education:** BCA (2022-2025)  
-- 🎯 **Goals:** To become a full-stack web developer and continue enhancing my skills in SEO and content writing.  
+  
 - 📝 **Blogging:** I write tech-related blogs. Check out my latest post [here](https://blackdevil001.wixsite.com/home/post/computer-terminology-a-part-1).  
 - 📧 **Contact:** sparshsharma1409@gmail.com
 
