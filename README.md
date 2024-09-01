@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I'm a passionate student currently pursuing my **B
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python (Beginner), Java (Beginner)
+- **Programming Languages:** Python (Beginner), Java (Beginner), c(Intermediate), c++ (Intermediate), 
 - **Web Development:** HTML, CSS, Tailwind CSS (Intermediate), PHP (Beginner)
-- **Tools:** MS Office, MS Excel (Intermediate)
+- **Tools:** MS Office, MS Excel (Intermediate), Git Hub, Git, VS Code, Linux
+- **DataBase:** SQL
 - **Content Creation:** Blogging, SEO (Beginner)
 - **Other:** Stenography (NSQL Level - 4), English Proficiency (Intermediate)
 
